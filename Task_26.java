@@ -1,4 +1,4 @@
-public class Task_26 {
+public class Task_23 {
 	public static void main(String[] args) {
 		int n = Integer.parseInt(args[0]);
 		
