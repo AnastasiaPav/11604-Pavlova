@@ -19,11 +19,11 @@ public class Task_25 {
 					z = true;
 				}
 			}
+		}
 			
 			if (z = false) {
 				break;
 			}
-		}
 		
 		for ( int i = 0; i < n; i ++) {
 			System.out.print(a[i] + " ");
